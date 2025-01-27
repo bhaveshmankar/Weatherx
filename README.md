@@ -1,6 +1,6 @@
 ## WeatherX | Live Weather - React App
 
-### [Demo Link](https://weatherx-a5hwxdjyy-bhavesh-mankars-projects.vercel.app/) 🔗
+### [Demo Link](https://weatherx-three.vercel.app/) 🔗
 
 Live Weather Searching React App, built with the help of **OpenWeather API**.
 
